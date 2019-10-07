@@ -1,3 +1,3 @@
-## WORD_HUB['./word-hub']
+## WORD_HUB
 
-Fnd documentation for the code snippet here['./word-hub']
+Fnd documentation for the code snippet in ['./word-hub']

@@ -1,52 +1,52 @@
-## Word Occurence
+# Word Occurence
 returns array of words in string(sentense) based on number of occurence
 
-# Input
+## Input
 
 - string
 
-# Usage
+## Usage
 ```php 
 word_occur($string);
 ```
 
-## Word Restrict 
+# Word Restrict 
 returns mask restricted words in string
 
-# Input
+## Input
 - string
 - array or restricted words
 - masking (string - minimum 3 characters)
 
-# Usage
+## Usage
 ```php
 word_restrict($string, $array, $masking);
 ```
 
-## Word Links
+# Word Links
 returns string with hyperlink where like-anchor is found
 
-# Input
+## Input
 - string
 
-# Usage
+## Usage
 ```php
 word_links($string);
 ```
 
-## Word Character Sort
+# Word Character Sort
 returns array of sorted string by character
 
-# Input
+## Input
 - string
 
-# Usage
+## Usage
 ```php
 word_char_sort($string);
 ```
 
 
-## IMPLEMENTATION
+# IMPLEMENTATION
 
 ```php
 //use as trait, extends or include
